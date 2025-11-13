@@ -1,14 +1,13 @@
 ### Hi there 👋, Mohaimenul Islam
- I am a wordpress theme and plugin developer
-![I am a wordpress theme and plugin developer](https://www.facebook.com/photo?fbid=1211131473812170&set=a.106523897606272)
-
+#### I am a wordpress theme and plugin developer
+I am a wordpress theme and plugin developer
 🌐 I specialize in designing dynamic, responsive websites using WordPress, HTML, CSS, JavaScript, and jQuery.
 🎨 I turn Figma designs into clean, functional code and build custom themes, plugins, and widgets from scratch.
 🛠️ Currently diving deep into WordPress theme & plugin development to push the limits of what I can build.
 💼 I help clients build business, portfolio, blog, newspaper, and e-commerce websites.
 🧠 Lifelong learner, always experimenting with new ideas and creative UI/UX.
 
-Skills: HTML,CSS,PHP,Javascript,jQuary,Bootstrap,react,
+Skills: HTML,CSS,PHP,Javascript,jQuary,Bootstrap,
 
 - 🔭 I’m currently working on  a wordpress Theme 
 - 🌱 I’m currently learning Advance Wordpress development 
